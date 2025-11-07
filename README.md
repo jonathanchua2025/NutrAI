@@ -1,2 +1,0 @@
-# NutrAI
-Energized Hackathon
